@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Group 13.png</file>
+        <file>img/newchat.png</file>
+        <file>img/settings.png</file>
+        <file>img/arrowback.png</file>
+        <file>img/lupa.png</file>
+        <file>img/screpka.png</file>
+        <file>img/send.png</file>
+        <file>img/camera.png</file>
+        <file>img/zaglushka.png</file>
+        <file>img/registration.png</file>
+        <file>img/enter.png</file>
+        <file>img/messenger_logo.png</file>
+        <file>img/podver.png</file>
+        <file>img/icon.ico</file>
+        <file>img/profile.png</file>
+        <file>img/createnewchat.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/Jura.ttf</file>
+        <file>fonts/Jura-light.ttf</file>
+    </qresource>
+</RCC>
